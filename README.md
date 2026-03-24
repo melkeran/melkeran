@@ -153,9 +153,9 @@ expertise = {
 
 ## 🤝 Let's Work Together
 
-> 💼 Available for **freelance projects** on [Upwork](https://www.upwork.com/freelancers/mohamede490)
+> 💼 Available for **freelance projects** on [Upwork]([https://www.upwork.com/freelancers/mohamede490](https://www.upwork.com/freelancers/mohamede490?mp_source=share))
 
-[![Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/mohamede490)
+[![Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]([https://www.upwork.com/mohamede490](https://www.upwork.com/freelancers/mohamede490?mp_source=share))
 
 ---
 
