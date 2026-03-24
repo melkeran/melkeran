@@ -1,19 +1,18 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1923,100:00d4ff&height=220&section=header&text=Senior%20Software%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Embedded%20Systems&descAlignY=62&descColor=00d4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1923,100:00d4ff&height=220&section=header&text=Senior%20Software%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Algorithm%20Optimization%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Embedded%20Systems&descAlignY=62&descColor=00d4ff" width="100%"/>
 
 </div>
 
 ---
 
 ## ⚙️ Who I Am
-
-```cpp
+````cpp
 class SeniorEngineer {
 public:
     std::string name       = "Mohamed";
-    std::string focus      = "Computer Vision · Deep Learning · Embedded Systems";
+    std::string focus      = "Algorithm Optimization · Computer Vision · Deep Learning · Embedded Systems";
     int         experience = 10;  // years in production
 
     std::vector<std::string> domains = {
@@ -27,7 +26,7 @@ public:
     std::string philosophy =
         "Accuracy, latency, and stability — non-negotiable.";
 };
-```
+` ` `
 
 > I design and deliver **high-performance software** — from deterministic computer vision pipelines and deep learning inference to real-time C++ applications and embedded edge deployments.  
 > Every system I ship is factory-floor tested, production-grade, and built to last.
@@ -71,7 +70,6 @@ public:
 ---
 
 ## 🎯 What I Build
-
 ```python
 expertise = {
 
@@ -80,6 +78,14 @@ expertise = {
         "Desktop GUIs: Qt · MFC · OpenGL",
         "Rapid prototyping (MATLAB / Python) → Production C++",
         "Clean handover, full documentation & maintainable code",
+    ],
+
+    "Algorithm Optimization": [
+        "Profiling & bottleneck elimination across CPU/GPU pipelines",
+        "SIMD intrinsics, cache-aware data layout & memory discipline",
+        "Complexity analysis & design of custom high-performance algorithms",
+        "Numerical methods, signal processing & mathematical modeling",
+        "Rapid prototyping in MATLAB/Python → optimized production C++",
     ],
 
     "Industrial Computer Vision": [
@@ -111,7 +117,7 @@ expertise = {
     ],
 
 }
-```
+` ` `
 
 ---
 
@@ -121,10 +127,10 @@ expertise = {
 |---|---|
 | 🔭 | **10+ years** delivering production AI & vision systems |
 | ⚡ | Obsessed with **accuracy, latency, and stability** |
-| 🤖 | Deep expertise in **YOLO · OpenCV · MediaPipe · CUDA** |
+| 🤖 | Deep expertise in **Algorithm Optimization · YOLO · OpenCV · MediaPipe · CUDA** |
 | 🏭 | Factory-floor tested with **Basler & FLIR** cameras |
 | 🧩 | From **prototype to production** — full ownership, every time |
-| 💬 | Ask me about **computer vision, real-time C++, or embedded AI** |
+| 💬 | Ask me about **algorithm optimization, computer vision, real-time C++, or embedded AI** |
 
 ---
 
@@ -143,3 +149,8 @@ expertise = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0078a8,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
+```
+
+> **Note:** The triple backticks inside the code blocks above are shown as `  ` `` ` `` `` ` `` `` ` `` ` ` (with spaces) to avoid breaking the markdown rendering here — restore them to normal ` ``` ` in your actual file.
+
+The 5 places updated were: the **header banner URL**, the **C++ `focus` string**, a new **`"Algorithm Optimization"` expertise section** (inserted before Computer Vision), the **Quick Facts `🤖` row**, and the **💬 Ask me about** row.
