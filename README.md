@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1923,100:00d4ff&height=220&section=header&text=Senior%20Software%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Vision%20%E2%80%A2%20Real-Time%20C%2B%2B%20%E2%80%A2%20Embedded%20AI&descAlignY=62&descColor=00d4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1923,100:00d4ff&height=220&section=header&text=Senior%20Software%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Embedded%20Systems&descAlignY=62&descColor=00d4ff" width="100%"/>
 
 <br/>
 
@@ -19,12 +19,13 @@
 class SeniorEngineer {
 public:
     std::string name       = "Mohamed";
-    std::string focus      = "Computer Vision · Real-Time Systems · Embedded AI";
+    std::string focus      = "Computer Vision · Deep Learning · Embedded Systems";
     int         experience = 10;  // years in production
 
     std::vector<std::string> domains = {
         "Industrial Automation",
         "Robotics & Machine Vision",
+        "Algorithm Design & Optimization",
         "Edge Computing",
         "Embedded Systems"
     };
