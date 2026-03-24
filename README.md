@@ -153,11 +153,9 @@ expertise = {
 
 ## 🤝 Let's Work Together
 
-> 💼 Available for **freelance projects** on [Upwork](https://www.upwork.com/YOUR_PROFILE)
+> 💼 Available for **freelance projects** on [Upwork](https://www.upwork.com/freelancers/mohamede490)
 
-[![Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/YOUR_PROFILE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/mohamede490)
 
 ---
 
