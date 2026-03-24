@@ -6,8 +6,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=melkeran&style=flat-square&color=00d4ff&label=PROFILE+VIEWS)
-&nbsp;
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=melkeran.melkeran&left_color=0d1117&right_color=00d4ff&left_text=VISITORS)
 
 </div>
 
