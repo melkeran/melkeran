@@ -3,10 +3,6 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1923,100:00d4ff&height=220&section=header&text=Senior%20Software%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Embedded%20Systems&descAlignY=62&descColor=00d4ff" width="100%"/>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=melkeran&style=flat-square&color=00d4ff&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -132,22 +128,6 @@ expertise = {
 | 🏭 | Factory-floor tested with **Basler & FLIR** cameras |
 | 🧩 | From **prototype to production** — full ownership, every time |
 | 💬 | Ask me about **computer vision, real-time C++, or embedded AI** |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=melkeran&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melkeran&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="40%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=melkeran&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" width="60%"/>
-
-</div>
 
 ---
 
