@@ -7,7 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=melkeran&style=flat-square&color=00d4ff&label=PROFILE+VIEWS)
 &nbsp;
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmelkeran&count_bg=%2300d4ff&title_bg=%230d1117&icon=github.svg&icon_color=%23ffffff&title=HITS&edge_flat=true)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=melkeran.melkeran&left_color=0d1117&right_color=00d4ff&left_text=VISITORS)
 
 </div>
 
