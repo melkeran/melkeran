@@ -5,9 +5,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00d4ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=melkeran&style=flat-square&color=00d4ff&label=PROFILE+VIEWS)
 &nbsp;
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&count_bg=%2300d4ff&title_bg=%230d1117&icon=github.svg&icon_color=%23ffffff&title=HITS&edge_flat=true)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmelkeran&count_bg=%2300d4ff&title_bg=%230d1117&icon=github.svg&icon_color=%23ffffff&title=HITS&edge_flat=true)
 
 </div>
 
@@ -141,13 +141,13 @@ expertise = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=melkeran&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melkeran&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="40%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=melkeran&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" width="60%"/>
 
 </div>
 
