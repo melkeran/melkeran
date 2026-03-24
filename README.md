@@ -75,6 +75,13 @@ public:
 ```python
 expertise = {
 
+    "Full Project Ownership": [
+        "System architecture & technical leadership",
+        "Desktop GUIs: Qt · MFC · OpenGL",
+        "Rapid prototyping (MATLAB / Python) → Production C++",
+        "Clean handover, full documentation & maintainable code",
+    ],
+
     "Industrial Computer Vision": [
         "High-accuracy inspection, measurement & defect detection",
         "Deterministic OpenCV pipelines (C++ & Python)",
@@ -101,13 +108,6 @@ expertise = {
         "Computer vision on Raspberry Pi — lean and real-time",
         "ESP32 / Arduino sensor integration & closed-loop control",
         "Quantized model deployment on constrained hardware",
-    ],
-
-    "Full Project Ownership": [
-        "System architecture & technical leadership",
-        "Desktop GUIs: Qt · MFC · OpenGL",
-        "Rapid prototyping (MATLAB / Python) → Production C++",
-        "Clean handover, full documentation & maintainable code",
     ],
 
 }
