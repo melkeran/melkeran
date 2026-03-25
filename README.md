@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1923,100:00d4ff&height=220&section=header&text=Senior%20Software%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Algorithm%20Optimization%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning%20%7C%20Embedded%20Systems&descAlignY=62&descColor=00d4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1923,100:00d4ff&height=220&section=header&text=Senior%20Software%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Algorithm%20Optimization%20%7C%20Computer%20Vision%20%7C%20AI%20%7C%20Embedded%20Systems&descAlignY=62&descColor=00d4ff" width="100%"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 class SeniorEngineer {
 public:
     std::string name       = "Mohamed";
-    std::string focus      = "Algorithm Optimization · Computer Vision · Deep Learning · Embedded Systems";
+    std::string focus      = "Algorithm Optimization · Computer Vision · AI · Embedded Systems";
     int         experience = 10;  // years in production
 
     std::vector<std::string> domains = {
@@ -28,7 +28,7 @@ public:
 };
 ```
 
-> I design and deliver **high-performance software** — from deterministic computer vision pipelines and deep learning inference to real-time C++ applications and embedded edge deployments.  
+> I design and deliver **high-performance software** — from deterministic computer vision pipelines and AI inference to real-time C++ applications and embedded edge deployments.  
 > Every system I ship is factory-floor tested, production-grade, and built to last.
 
 ---
@@ -95,7 +95,7 @@ expertise = {
         "Calibration, photometry, and lens distortion correction",
     ],
 
-    "Deep Learning for Vision": [
+    "AI for Vision": [
         "YOLO — detection, segmentation, OBB, pose estimation",
         "ResNet, U-Net, MediaPipe — tailored to task",
         "Custom dataset creation, labeling & curation",
