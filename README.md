@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0f1923,100:00d4ff&amp;height=220&amp;section=header&amp;text=Senior%20Software%20Engineer&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Algorithm%20Optimization%20%7C%20Computer%20Vision%20%26%20AI%20%7C%20Embedded%20Systems&amp;descAlignY=62&amp;descColor=00d4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1923,100:00d4ff&height=220&section=header&text=Senior%20Software%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Algorithm%20Optimization%20%7C%20Computer%20Vision%20%C2%B7%20AI%20%7C%20Embedded%20Systems&descAlignY=62&descColor=00d4ff" width="100%"/>
 
 </div>
 
