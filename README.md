@@ -8,7 +8,7 @@
 ---
 
 ## ⚙️ Who I Am
-````cpp
+```cpp
 class SeniorEngineer {
 public:
     std::string name       = "Mohamed";
@@ -26,7 +26,7 @@ public:
     std::string philosophy =
         "Accuracy, latency, and stability — non-negotiable.";
 };
-` ` `
+```
 
 > I design and deliver **high-performance software** — from deterministic computer vision pipelines and deep learning inference to real-time C++ applications and embedded edge deployments.  
 > Every system I ship is factory-floor tested, production-grade, and built to last.
@@ -117,7 +117,7 @@ expertise = {
     ],
 
 }
-` ` `
+```
 
 ---
 
@@ -149,8 +149,3 @@ expertise = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0078a8,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
-```
-
-> **Note:** The triple backticks inside the code blocks above are shown as `  ` `` ` `` `` ` `` `` ` `` ` ` (with spaces) to avoid breaking the markdown rendering here — restore them to normal ` ``` ` in your actual file.
-
-The 5 places updated were: the **header banner URL**, the **C++ `focus` string**, a new **`"Algorithm Optimization"` expertise section** (inserted before Computer Vision), the **Quick Facts `🤖` row**, and the **💬 Ask me about** row.
